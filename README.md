@@ -7,7 +7,8 @@
 
 - 🛠️ Desenvolvendo projetos em: Python, Go e SQL...
 
-- 🤓 Interessada em: Data science, Product development, BI e back-end
+- 🤓 Interessada em: Data science, Product development, BI e back-end development
+
 
 <!---
 sarahbirne/sarahbirne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
