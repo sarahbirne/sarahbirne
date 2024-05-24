@@ -5,7 +5,7 @@
 
 - 🌟 Fascinada em descobrir coisas novas e curiosa por natureza. 👀
 
-- 🛠️ Desenvolvendo projetos nessas linguagens: Python, Go e SQL...
+- 🛠️ Desenvolvendo projetos em: Python, Go e SQL...
 
 - 🤓 Interessada em: Data science, Product development, BI e back-end
 
