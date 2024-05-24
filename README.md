@@ -3,7 +3,7 @@
 
 - 🚀 Dev apaixonada em misturar criatividade e tecnologia.
 
-- 🌟 Fascinada em descobrir coisas novas curiosa por natureza. 👀
+- 🌟 Fascinada em descobrir coisas novas e curiosa por natureza. 👀
 
 - 🛠️ Desenvolvendo projetos nessas linguagens: Python, Go e SQL...
 
