@@ -1,11 +1,11 @@
 
 - 👋 Olá, mundo! Eu sou A Sarah!
 
-- 👩🏻‍💻 Desenvolvedora apaixonada em misturar criatividade e tecnologia.
+- 👩🏻‍💻 Dev apaixonada em misturar criatividade e tecnologia.
 
-- 🛠️ Estou desenvolvendo projetos nessas linguagens: Python, Go e SQL...
+- 🌟 Fascinada em descobrir coisas novas curiosa por natureza. 👀
 
-- 🌟 Fascinada em aprender coisas novas e curiosa por natureza.
+- 🛠️ Desenvolvendo projetos nessas linguagens: Python, Go e SQL...
 
 - 🌍 Vamos transformar o mundo, uma linha de código por vez!
 
