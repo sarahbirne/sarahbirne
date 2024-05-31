@@ -5,9 +5,9 @@
 
 - 🌟 Fascinada em descobrir coisas novas e curiosa por natureza. 👀
 
-- 🛠️ Desenvolvendo projetos em: Python, Go e SQL...
+- 🛠️ Desenvolvendo projetos em: Python, HTML...
 
-- 🤓 Interessada em: Data science, Product development, BI e back-end development
+- 🤓 Interessada em: Product Development, Front-end, UX design, Análise de dados para tomada de decisões...
 
 
 <!---
