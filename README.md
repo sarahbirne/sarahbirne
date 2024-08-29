@@ -1,5 +1,5 @@
 
-- 👋 Olá, mundo! Eu sou A Sarah!
+- 👋 Hello World! Eu sou a Sarah!
 
 - 🚀 Dev apaixonada em misturar criatividade e tecnologia.
 
@@ -7,7 +7,7 @@
 
 - 🛠️ Desenvolvendo projetos em: Python, GO, HTML...
 
-- 🤓 Interessada em: Product Development, Desenvolvimento Full Stack, Design UX e UI...
+- 🤓 Interessada em: Desenvolviemento Back-end e Data Science 
 
 
 <!---
